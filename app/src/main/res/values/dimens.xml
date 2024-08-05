@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cabecera">50dp</dimen>
+    <dimen name="margin_left">5dp</dimen>
+    <dimen name="margin_right">5dp</dimen>
+    <dimen name="espacio_campos">10dp</dimen>
+    <dimen name="textoDetalle">18dp</dimen>
+    <dimen name="padding">80dp</dimen>
+</resources>

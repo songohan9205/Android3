@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EjercicioDos</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="fecha">Fecha de nacimiento</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción Contacto</string>
+    <string name="boton_texto">Siguiente</string>
+    <string name="titulo">Confirmar datos</string>
+    <string name="lNombre">Nombre: </string>
+    <string name="lFecha">Fecha Nacimiento: </string>
+    <string name="lTel">Tel: </string>
+    <string name="lEmail">Email: </string>
+    <string name="lDescripcion">Descripción: </string>
+    <string name="editar">Editar Datos</string>
+
+    <string name="pNombre">pNombre</string>
+    <string name="pFecha">pFecha</string>
+    <string name="pTelefono">pTelefono</string>
+    <string name="pEmail">pEmail</string>
+    <string name="pDescripcion">pDescripcion</string>
+</resources>
